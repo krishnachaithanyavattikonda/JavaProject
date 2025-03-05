@@ -1,0 +1,8 @@
+{
+  "HomePageData": {
+    "footerTests": {
+      "allLinksPath": "src/test/resources/dp2/data/allFooterLinks.csv",
+      "duplicateLinksPath": "src/test/resources/dp2/data/duplicateFooterLinks.csv"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="DP2 Suite" parallel="tests" thread-count="2">
+    <test name="DP2 Runner">
+        <parameter name="testEnv" value="stage"/>
+        <classes>
+            <class name="com.dp2.testrunner.TestRunner"/>
+        </classes>
+    </test>
+
+</suite>

@@ -1,0 +1,174 @@
+2025-03-05 18:10:27 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >" at the top of the suite file [C:\Users\vchaitha\FrameworkSample\AutomationFrameworkAssignemnt\src\test\resources\dp2\testng.xml] otherwise TestNG may fail or not work as expected.
+2025-03-05 18:10:27 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vchaitha\FrameworkSample\AutomationFrameworkAssignemnt\src\test\resources\dp2\testng.xml
+
+2025-03-05 18:11:11 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >" at the top of the suite file [C:\Users\vchaitha\FrameworkSample\AutomationFrameworkAssignemnt\src\test\resources\dp2\testng.xml] otherwise TestNG may fail or not work as expected.
+2025-03-05 18:11:11 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vchaitha\FrameworkSample\AutomationFrameworkAssignemnt\src\test\resources\dp2\testng.xml
+
+2025-03-05 18:11:12 [TestNG-PoolService-0] INFO  com.framework.utils.LogUtil - Initializing WebDriver for: chrome
+2025-03-05 18:11:14 [TestNG-PoolService-0] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 133.0.6943.141 (resolved driver for Chrome 133)
+2025-03-05 18:11:14 [TestNG-PoolService-0] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\vchaitha\.cache\selenium\chromedriver\win64\133.0.6943.141\chromedriver.exe
+2025-03-05 18:11:17 [TestNG-PoolService-0] INFO  com.framework.utils.LogUtil - WebDriver initialized successfully.
+2025-03-05 18:11:35 [TestNG-PoolService-0] INFO  com.framework.utils.LogUtil - CSV file written successfully to: src/test/resources/dp2/data/allFooterLinks.csv
+2025-03-05 18:35:09 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >" at the top of the suite file [C:\Users\vchaitha\FrameworkSample\AutomationFrameworkAssignemnt\src\test\resources\dp2\testng.xml] otherwise TestNG may fail or not work as expected.
+2025-03-05 18:35:09 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vchaitha\FrameworkSample\AutomationFrameworkAssignemnt\src\test\resources\dp2\testng.xml
+
+2025-03-05 18:35:10 [TestNG-PoolService-0] INFO  com.framework.utils.LogUtil - Initializing WebDriver for: chrome
+2025-03-05 18:35:11 [TestNG-PoolService-0] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 133.0.6943.141 (resolved driver for Chrome 133)
+2025-03-05 18:35:11 [TestNG-PoolService-0] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\vchaitha\.cache\selenium\chromedriver\win64\133.0.6943.141\chromedriver.exe
+2025-03-05 18:35:13 [TestNG-PoolService-0] INFO  com.framework.utils.LogUtil - WebDriver initialized successfully.
+2025-03-05 18:38:52 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >" at the top of the suite file [C:\Users\vchaitha\FrameworkSample\AutomationFrameworkAssignemnt\src\test\resources\dp2\testng.xml] otherwise TestNG may fail or not work as expected.
+2025-03-05 18:38:53 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vchaitha\FrameworkSample\AutomationFrameworkAssignemnt\src\test\resources\dp2\testng.xml
+
+2025-03-05 18:38:53 [TestNG-PoolService-0] INFO  com.framework.utils.LogUtil - Initializing WebDriver for: chrome
+2025-03-05 18:38:54 [TestNG-PoolService-0] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 133.0.6943.141 (resolved driver for Chrome 133)
+2025-03-05 18:38:54 [TestNG-PoolService-0] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\vchaitha\.cache\selenium\chromedriver\win64\133.0.6943.141\chromedriver.exe
+2025-03-05 18:38:56 [TestNG-PoolService-0] INFO  com.framework.utils.LogUtil - WebDriver initialized successfully.
+2025-03-05 18:47:40 [TestNG-PoolService-1] INFO  com.framework.utils.LogUtil - Initializing WebDriver for: chrome
+2025-03-05 18:47:40 [TestNG-PoolService-0] INFO  com.framework.utils.LogUtil - Initializing WebDriver for: chrome
+2025-03-05 18:47:41 [TestNG-PoolService-0] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 133.0.6943.141 (resolved driver for Chrome 133)
+2025-03-05 18:47:41 [TestNG-PoolService-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 133.0.6943.141 (resolved driver for Chrome 133)
+2025-03-05 18:47:41 [TestNG-PoolService-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\vchaitha\.cache\selenium\chromedriver\win64\133.0.6943.141\chromedriver.exe
+2025-03-05 18:47:41 [TestNG-PoolService-0] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\vchaitha\.cache\selenium\chromedriver\win64\133.0.6943.141\chromedriver.exe
+2025-03-05 18:47:44 [TestNG-PoolService-0] INFO  com.framework.utils.LogUtil - WebDriver initialized successfully.
+2025-03-05 18:47:44 [TestNG-PoolService-1] INFO  com.framework.utils.LogUtil - WebDriver initialized successfully.
+2025-03-05 18:48:40 [TestNG-PoolService-0] INFO  com.framework.utils.LogUtil - Initializing WebDriver for: chrome
+2025-03-05 18:48:40 [TestNG-PoolService-0] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 133.0.6943.141 (resolved driver for Chrome 133)
+2025-03-05 18:48:40 [TestNG-PoolService-0] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\vchaitha\.cache\selenium\chromedriver\win64\133.0.6943.141\chromedriver.exe
+2025-03-05 18:48:42 [TestNG-PoolService-0] INFO  com.framework.utils.LogUtil - WebDriver initialized successfully.
+2025-03-05 18:49:30 [TestNG-PoolService-0] INFO  com.framework.utils.LogUtil - Initializing WebDriver for: chrome
+2025-03-05 18:49:30 [TestNG-PoolService-0] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 133.0.6943.141 (resolved driver for Chrome 133)
+2025-03-05 18:49:30 [TestNG-PoolService-0] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\vchaitha\.cache\selenium\chromedriver\win64\133.0.6943.141\chromedriver.exe
+2025-03-05 18:49:32 [TestNG-PoolService-0] INFO  com.framework.utils.LogUtil - WebDriver initialized successfully.
+2025-03-05 18:49:44 [TestNG-PoolService-0] ERROR com.framework.utils.LogUtil - no such element: element not found
+  (Session info: chrome=133.0.6943.142)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.10.0', revision: 'c14d967899'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [0a3a93927fce4bda40ab432854b745a9, executeScript {script=arguments[0].scrollIntoView(true);, args=[{element-6066-11e4-a52e-4f735466cecf=f.D5DADDC195727A7FA8E1A7C58F226241.d.B39DDD582EE0F9137773221D99CEFB60.e.254}]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 133.0.6943.142, chrome: {chromedriverVersion: 133.0.6943.141 (2a5d6da0d61..., userDataDir: C:\WINDOWS\SystemTemp\scope...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64267}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64267/devtoo..., se:cdpVersion: 133.0.6943.142, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 0a3a93927fce4bda40ab432854b745a9
+2025-03-05 18:53:59 [TestNG-PoolService-0] INFO  com.framework.utils.LogUtil - Initializing WebDriver for: chrome
+2025-03-05 18:53:59 [TestNG-PoolService-1] INFO  com.framework.utils.LogUtil - Initializing WebDriver for: chrome
+2025-03-05 18:54:00 [TestNG-PoolService-0] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 133.0.6943.141 (resolved driver for Chrome 133)
+2025-03-05 18:54:00 [TestNG-PoolService-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 133.0.6943.141 (resolved driver for Chrome 133)
+2025-03-05 18:54:00 [TestNG-PoolService-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\vchaitha\.cache\selenium\chromedriver\win64\133.0.6943.141\chromedriver.exe
+2025-03-05 18:54:00 [TestNG-PoolService-0] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\vchaitha\.cache\selenium\chromedriver\win64\133.0.6943.141\chromedriver.exe
+2025-03-05 18:54:05 [TestNG-PoolService-0] INFO  com.framework.utils.LogUtil - WebDriver initialized successfully.
+2025-03-05 18:54:05 [TestNG-PoolService-1] INFO  com.framework.utils.LogUtil - WebDriver initialized successfully.
+2025-03-05 18:55:00 [TestNG-PoolService-0] INFO  com.framework.utils.LogUtil - Initializing WebDriver for: chrome
+2025-03-05 18:55:00 [TestNG-PoolService-0] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 133.0.6943.141 (resolved driver for Chrome 133)
+2025-03-05 18:55:00 [TestNG-PoolService-0] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\vchaitha\.cache\selenium\chromedriver\win64\133.0.6943.141\chromedriver.exe
+2025-03-05 18:55:02 [TestNG-PoolService-0] INFO  com.framework.utils.LogUtil - WebDriver initialized successfully.
+2025-03-05 18:55:27 [TestNG-PoolService-0] INFO  com.framework.utils.LogUtil - Initializing WebDriver for: chrome
+2025-03-05 18:55:27 [TestNG-PoolService-0] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 133.0.6943.141 (resolved driver for Chrome 133)
+2025-03-05 18:55:27 [TestNG-PoolService-0] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\vchaitha\.cache\selenium\chromedriver\win64\133.0.6943.141\chromedriver.exe
+2025-03-05 18:55:30 [TestNG-PoolService-0] INFO  com.framework.utils.LogUtil - WebDriver initialized successfully.
+2025-03-05 18:55:38 [TestNG-PoolService-0] ERROR com.framework.utils.LogUtil - no such element: element not found
+  (Session info: chrome=133.0.6943.142)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.10.0', revision: 'c14d967899'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [226a01c4a9d3bd7b1a125530588b617f, executeScript {script=arguments[0].scrollIntoView(true);, args=[{element-6066-11e4-a52e-4f735466cecf=f.53E803D77B57E1FE9D843841ED8F7D76.d.599F8A45860DD48D36B59A3205BEE053.e.255}]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 133.0.6943.142, chrome: {chromedriverVersion: 133.0.6943.141 (2a5d6da0d61..., userDataDir: C:\WINDOWS\SystemTemp\scope...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64836}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64836/devtoo..., se:cdpVersion: 133.0.6943.142, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 226a01c4a9d3bd7b1a125530588b617f
+2025-03-05 19:07:20 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >" at the top of the suite file [C:\Users\vchaitha\FrameworkSample\AutomationFrameworkAssignemnt\src\test\resources\dp2\testng.xml] otherwise TestNG may fail or not work as expected.
+2025-03-05 19:07:20 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vchaitha\FrameworkSample\AutomationFrameworkAssignemnt\src\test\resources\dp2\testng.xml
+
+2025-03-05 19:07:21 [TestNG-PoolService-0] INFO  com.framework.utils.LogUtil - Initializing WebDriver for: chrome
+2025-03-05 19:07:22 [TestNG-PoolService-0] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 133.0.6943.141 (resolved driver for Chrome 133)
+2025-03-05 19:07:22 [TestNG-PoolService-0] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\vchaitha\.cache\selenium\chromedriver\win64\133.0.6943.141\chromedriver.exe
+2025-03-05 19:07:24 [TestNG-PoolService-0] INFO  com.framework.utils.LogUtil - WebDriver initialized successfully.
+2025-03-05 19:11:58 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vchaitha\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2025-03-05 19:11:58 [TestNG-PoolService-0] INFO  com.framework.utils.LogUtil - Running tests on: chrome
+2025-03-05 19:11:58 [TestNG-PoolService-0] INFO  com.framework.utils.LogUtil - Initializing WebDriver for: chrome
+2025-03-05 19:12:08 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >" at the top of the suite file [C:\Users\vchaitha\FrameworkSample\AutomationFrameworkAssignemnt\src\test\resources\dp2\testng.xml] otherwise TestNG may fail or not work as expected.
+2025-03-05 19:12:08 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vchaitha\FrameworkSample\AutomationFrameworkAssignemnt\src\test\resources\dp2\testng.xml
+
+2025-03-05 19:12:09 [TestNG-PoolService-0] INFO  com.framework.utils.LogUtil - Running tests on: chrome
+2025-03-05 19:12:09 [TestNG-PoolService-0] INFO  com.framework.utils.LogUtil - Initializing WebDriver for: chrome
+2025-03-05 19:12:12 [TestNG-PoolService-0] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 133.0.6943.141 (resolved driver for Chrome 133)
+2025-03-05 19:12:12 [TestNG-PoolService-0] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\vchaitha\.cache\selenium\chromedriver\win64\133.0.6943.141\chromedriver.exe
+2025-03-05 19:12:15 [TestNG-PoolService-0] INFO  com.framework.utils.LogUtil - WebDriver initialized successfully.
+2025-03-05 19:12:26 [TestNG-PoolService-0] INFO  com.framework.utils.LogUtil - Starting new test scenario...
+2025-03-05 19:12:26 [TestNG-PoolService-0] INFO  com.framework.utils.LogUtil - Initializing WebDriver for: chrome
+2025-03-05 19:12:26 [TestNG-PoolService-0] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 133.0.6943.141 (resolved driver for Chrome 133)
+2025-03-05 19:12:26 [TestNG-PoolService-0] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\vchaitha\.cache\selenium\chromedriver\win64\133.0.6943.141\chromedriver.exe
+2025-03-05 19:12:28 [TestNG-PoolService-0] INFO  com.framework.utils.LogUtil - WebDriver initialized successfully.
+2025-03-05 19:12:39 [TestNG-PoolService-0] INFO  com.framework.utils.LogUtil - Test scenario finished, closing browser.
+2025-03-05 19:15:19 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >" at the top of the suite file [C:\Users\vchaitha\FrameworkSample\AutomationFrameworkAssignemnt\src\test\resources\dp2\testng.xml] otherwise TestNG may fail or not work as expected.
+2025-03-05 19:15:19 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vchaitha\FrameworkSample\AutomationFrameworkAssignemnt\src\test\resources\dp2\testng.xml
+
+2025-03-05 19:15:20 [TestNG-PoolService-0] INFO  com.framework.utils.LogUtil - Running tests on: chrome
+2025-03-05 19:15:20 [TestNG-PoolService-0] INFO  com.framework.utils.LogUtil - Starting new test scenario...
+2025-03-05 19:15:20 [TestNG-PoolService-0] INFO  com.framework.utils.LogUtil - Initializing WebDriver for: chrome
+2025-03-05 19:15:20 [TestNG-PoolService-0] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 133.0.6943.141 (resolved driver for Chrome 133)
+2025-03-05 19:15:20 [TestNG-PoolService-0] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\vchaitha\.cache\selenium\chromedriver\win64\133.0.6943.141\chromedriver.exe
+2025-03-05 19:15:22 [TestNG-PoolService-0] INFO  com.framework.utils.LogUtil - WebDriver initialized successfully.
+2025-03-05 19:15:32 [TestNG-PoolService-0] INFO  com.framework.utils.LogUtil - Test scenario finished, closing browser.
+2025-03-05 20:22:06 [main] WARN  org.testng.internal.Configuration - Detected a static method [com.cp.testrunner.TestRunner.setUp()]. Static configuration methods can cause  unexpected behavior.
+2025-03-05 20:22:06 [main] WARN  org.testng.internal.Configuration - Detected a static method [com.dp1.testrunner.TestRunner.setUp()]. Static configuration methods can cause  unexpected behavior.
+2025-03-05 20:22:06 [main] WARN  org.testng.internal.Configuration - Detected a static method [com.dp2.testrunner.TestRunner.setUp()]. Static configuration methods can cause  unexpected behavior.
+2025-03-05 20:22:06 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vchaitha\FrameworkSample\AutomationFrameworkAssignemnt\src\test\resources\testng.xml
+
+2025-03-05 20:22:07 [TestNG-PoolService-0] INFO  com.framework.utils.LogUtil - Running tests on: chrome
+2025-03-05 20:22:07 [TestNG-PoolService-0] INFO  com.framework.utils.LogUtil - Running tests on: chrome
+2025-03-05 20:22:07 [TestNG-PoolService-0] INFO  com.framework.utils.LogUtil - Running tests on: chrome
+2025-03-05 20:22:07 [TestNG-PoolService-1] INFO  com.framework.utils.LogUtil - Running tests on: chrome
+2025-03-05 20:22:07 [TestNG-PoolService-0] INFO  com.framework.utils.LogUtil - Starting new test scenario...
+2025-03-05 20:22:07 [TestNG-PoolService-0] INFO  com.framework.utils.LogUtil - Starting new test scenario...
+2025-03-05 20:22:07 [TestNG-PoolService-0] INFO  com.framework.utils.LogUtil - Starting new test scenario...
+2025-03-05 20:22:07 [TestNG-PoolService-1] INFO  com.framework.utils.LogUtil - Starting new test scenario...
+2025-03-05 20:22:07 [TestNG-PoolService-0] INFO  com.framework.utils.LogUtil - Initializing WebDriver for: chrome
+2025-03-05 20:22:07 [TestNG-PoolService-0] INFO  com.framework.utils.LogUtil - Initializing WebDriver for: chrome
+2025-03-05 20:22:07 [TestNG-PoolService-0] INFO  com.framework.utils.LogUtil - Initializing WebDriver for: chrome
+2025-03-05 20:22:07 [TestNG-PoolService-1] INFO  com.framework.utils.LogUtil - Initializing WebDriver for: chrome
+2025-03-05 20:22:09 [TestNG-PoolService-0] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 133.0.6943.141 (resolved driver for Chrome 133)
+2025-03-05 20:22:09 [TestNG-PoolService-0] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 133.0.6943.141 (resolved driver for Chrome 133)
+2025-03-05 20:22:09 [TestNG-PoolService-0] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 133.0.6943.141 (resolved driver for Chrome 133)
+2025-03-05 20:22:09 [TestNG-PoolService-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 133.0.6943.141 (resolved driver for Chrome 133)
+2025-03-05 20:22:09 [TestNG-PoolService-0] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\vchaitha\.cache\selenium\chromedriver\win64\133.0.6943.141\chromedriver.exe
+2025-03-05 20:22:09 [TestNG-PoolService-0] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\vchaitha\.cache\selenium\chromedriver\win64\133.0.6943.141\chromedriver.exe
+2025-03-05 20:22:09 [TestNG-PoolService-0] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\vchaitha\.cache\selenium\chromedriver\win64\133.0.6943.141\chromedriver.exe
+2025-03-05 20:22:09 [TestNG-PoolService-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\vchaitha\.cache\selenium\chromedriver\win64\133.0.6943.141\chromedriver.exe
+2025-03-05 20:22:14 [TestNG-PoolService-0] INFO  com.framework.utils.LogUtil - WebDriver initialized successfully.
+2025-03-05 20:22:14 [TestNG-PoolService-1] INFO  com.framework.utils.LogUtil - WebDriver initialized successfully.
+2025-03-05 20:22:14 [TestNG-PoolService-0] INFO  com.framework.utils.LogUtil - Test scenario finished, closing browser.
+2025-03-05 20:22:15 [TestNG-PoolService-0] INFO  com.framework.utils.LogUtil - WebDriver initialized successfully.
+2025-03-05 20:22:15 [TestNG-PoolService-1] INFO  com.framework.utils.LogUtil - Test scenario finished, closing browser.
+2025-03-05 20:22:15 [TestNG-PoolService-0] INFO  com.framework.utils.LogUtil - WebDriver initialized successfully.
+2025-03-05 20:22:15 [TestNG-PoolService-0] INFO  com.framework.utils.LogUtil - Test scenario finished, closing browser.
+2025-03-05 20:22:15 [TestNG-PoolService-0] INFO  com.framework.utils.LogUtil - Test scenario finished, closing browser.
+2025-03-05 20:24:08 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vchaitha\FrameworkSample\AutomationFrameworkAssignemnt\src\test\resources\dp2\testng.xml
+
+2025-03-05 20:24:09 [TestNG-PoolService-0] INFO  com.framework.utils.LogUtil - Running tests on: chrome
+2025-03-05 20:24:09 [TestNG-PoolService-0] INFO  com.framework.utils.LogUtil - Starting new test scenario...
+2025-03-05 20:24:09 [TestNG-PoolService-0] INFO  com.framework.utils.LogUtil - Initializing WebDriver for: chrome
+2025-03-05 20:24:09 [TestNG-PoolService-0] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 133.0.6943.141 (resolved driver for Chrome 133)
+2025-03-05 20:24:10 [TestNG-PoolService-0] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\vchaitha\.cache\selenium\chromedriver\win64\133.0.6943.141\chromedriver.exe
+2025-03-05 20:24:12 [TestNG-PoolService-0] INFO  com.framework.utils.LogUtil - WebDriver initialized successfully.
+2025-03-05 20:24:23 [TestNG-PoolService-0] INFO  com.framework.utils.LogUtil - 🌍 Running tests on environment: dp2.stage - URL: https://www.nba.com/bulls/ 
+2025-03-05 20:24:25 [TestNG-PoolService-0] INFO  com.framework.utils.LogUtil - Test scenario finished, closing browser.
+2025-03-05 20:25:52 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vchaitha\FrameworkSample\AutomationFrameworkAssignemnt\src\test\resources\dp2\testng.xml
+
+2025-03-05 20:25:52 [TestNG-PoolService-0] INFO  com.framework.utils.LogUtil - Running tests on: chrome
+2025-03-05 20:25:52 [TestNG-PoolService-0] INFO  com.framework.utils.LogUtil - Starting new test scenario...
+2025-03-05 20:25:52 [TestNG-PoolService-0] INFO  com.framework.utils.LogUtil - Initializing WebDriver for: chrome
+2025-03-05 20:25:53 [TestNG-PoolService-0] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 133.0.6943.141 (resolved driver for Chrome 133)
+2025-03-05 20:25:53 [TestNG-PoolService-0] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\vchaitha\.cache\selenium\chromedriver\win64\133.0.6943.141\chromedriver.exe
+2025-03-05 20:25:55 [TestNG-PoolService-0] INFO  com.framework.utils.LogUtil - WebDriver initialized successfully.
+2025-03-05 20:26:06 [TestNG-PoolService-0] INFO  com.framework.utils.LogUtil - 🌍 Running tests on environment: dp2.stage - URL: https://www.nba.com/bulls/ 
+2025-03-05 20:26:08 [TestNG-PoolService-0] INFO  com.framework.utils.LogUtil - Test scenario finished, closing browser.
